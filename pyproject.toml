@@ -1,0 +1,5 @@
+[project]
+name = "fieldnotes-service-desk"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = ["Flask==3.1.2"]
